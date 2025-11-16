@@ -16,18 +16,19 @@ your files secure and accessible only to you.
 
 ## 📖 Table of Contents
 
--   Features
--   [Screenshots](#-screenshots)
--   Technical Architecture
--   Installation
--   Usage Guide
--   Development
--   App Store Submission
--   License
--   Contributing
--   Support
--   Acknowledgments
--   Version History
+- [Features](#features)
+- [Screenshots](#-screenshots)
+- [Technical Architecture](#technical-architecture)
+- [Installation](#installation)
+- [Usage Guide](#usage-guide)
+- [Development](#development)
+- [App-Store-Submission](#app-store-submission)
+- [License](#license)
+- [Contributing](#contributing)
+- [Support](#support)
+- [Acknowledgments](#acknowledgments)
+- [Version-History](#version-history)
+
 
 ------------------------------------------------------------------------
 
