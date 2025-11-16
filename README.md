@@ -17,7 +17,7 @@ your files secure and accessible only to you.
 ## 📖 Table of Contents
 
 -   Features
--   Screenshots
+-   [Screenshots](#-screenshots)
 -   Technical Architecture
 -   Installation
 -   Usage Guide
