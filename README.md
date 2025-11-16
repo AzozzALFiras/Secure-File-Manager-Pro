@@ -68,11 +68,12 @@ your files secure and accessible only to you.
 
 ## 📸 Screenshots
 
-![App Screenshot 1](https://raw.githubusercontent.com/AzozzALFiras/Secure-File-Manager-Pro/refs/heads/main/Screenshots/1.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AzozzALFiras/Secure-File-Manager-Pro/refs/heads/main/Screenshots/1.png" width="250" height="520" />
+  <img src="https://raw.githubusercontent.com/AzozzALFiras/Secure-File-Manager-Pro/refs/heads/main/Screenshots/2.png" width="250" height="520" />
+  <img src="https://raw.githubusercontent.com/AzozzALFiras/Secure-File-Manager-Pro/refs/heads/main/Screenshots/3.png" width="250" height="520" />
+</p>
 
-![App Screenshot 2](https://raw.githubusercontent.com/AzozzALFiras/Secure-File-Manager-Pro/refs/heads/main/Screenshots/2.png)
-
-![App Screenshot 3](https://raw.githubusercontent.com/AzozzALFiras/Secure-File-Manager-Pro/refs/heads/main/Screenshots/3.png)
 
 
 ------------------------------------------------------------------------
