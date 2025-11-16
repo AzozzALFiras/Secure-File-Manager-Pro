@@ -68,7 +68,12 @@ your files secure and accessible only to you.
 
 ## 📸 Screenshots
 
-*(Add screenshots here once available)*
+![App Screenshot 1](https://raw.githubusercontent.com/AzozzALFiras/Secure-File-Manager-Pro/refs/heads/main/Screenshots/1.png)
+
+![App Screenshot 2](https://raw.githubusercontent.com/AzozzALFiras/Secure-File-Manager-Pro/refs/heads/main/Screenshots/2.png)
+
+![App Screenshot 3](https://raw.githubusercontent.com/AzozzALFiras/Secure-File-Manager-Pro/refs/heads/main/Screenshots/3.png)
+
 
 ------------------------------------------------------------------------
 
